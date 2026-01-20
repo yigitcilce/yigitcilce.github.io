@@ -1,4 +1,3 @@
-# yigitcilce.github.io
 # 📊 Automatic Reporting
 
 ## Development in Progress
