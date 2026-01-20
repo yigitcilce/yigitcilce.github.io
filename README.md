@@ -1,1 +1,0 @@
-# yigitcilce.github.io
